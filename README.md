@@ -2,6 +2,10 @@
 
 The Segment Anything Model (SAM) and Segment Anything Model 2 (SAM 2) are foundation image segmentation models. SAM 2 can also be used to segment video data.
 
+## Conference Paper Link
+
+[Exploring Segment Anything Foundation Models for Out of Domain Crevasse Drone Image Segmentation](https://openreview.net/pdf?id=CGkyjTXomz)
+
 <div align="center">
 
 # SAM/SAM 2 Image Segmentation Model Architecture
